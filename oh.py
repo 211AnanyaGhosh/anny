@@ -1,1 +1,1 @@
-pprint(hello)
+print("hello")
